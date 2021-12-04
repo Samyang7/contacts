@@ -20,3 +20,5 @@ You will also see any lint errors in the console.
 The deafult page '/' is the login page. It required you type the email and username. Both information is available from the JSONPlaceholder '/users' resource. You can login in using any one of users inside the '/users' resource. For example you can type in:  
 email: Nathan@yesenia.net  
 username: Samantha  
+
+After successfully login in, it will bring you to the home page. You will able to see all contacters card listed on the main screen with default contacter image, email, phone, and website information. You can also click the 'view' button to have a look on the detail information for a particular contacter. All page are night/light mode enabled. You can toggle the mode using the light/night button. After successfully login in, you can also log out by clicking the account icon in the left top cornor.
