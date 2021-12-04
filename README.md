@@ -3,7 +3,7 @@
 This project was created by ReactJs using material-UI, and JSONPlaceholder. 
 
 ## How to run
-clone this project to your local computer and run the following commend under the project directory. 
+clone this project to your local computer and run the following commends under the project directory. 
 
 ### `yarn install`  
 install the dependency
