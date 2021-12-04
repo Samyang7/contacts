@@ -3,11 +3,10 @@
 This project was created by ReactJs using material-UI
 
 ## How to run
-
-In the project directory, you need to run:
+clone this project to your local computer and run the following commend under the project directory. 
 
 ### `yarn install`  
-to install the dependency
+install the dependency
 
 ### `yarn start`
 
