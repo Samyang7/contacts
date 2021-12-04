@@ -21,7 +21,10 @@ The deafult page '/' is the login page. It required you type the email and usern
 email: Nathan@yesenia.net  
 username: Samantha  
 
-After successfully login in, it will bring you to the home page. You will able to see all contacters card listed on the main screen with default contacter image, email, phone, and website information. You can also click the 'view' button to have a look on the detail information for a particular contacter. All page are night/light mode enabled. You can toggle the mode using the light/night button.   
+After successfully login in, it will bring you to the home page. You will able to see all contacters card listed on the main screen with default contacter image, email, phone, and website information. You can also click the 'view' button to have a look on the detail information for a particular contacter.  
+<img width="134" alt="Screen Shot 2021-12-04 at 16 16 18" src="https://user-images.githubusercontent.com/58925650/144698216-c325a33e-c38a-49b1-8062-cc1309609e33.png">
+
+All page are night/light mode enabled. You can toggle the mode using the light/night button.   
 <img width="146" alt="Screen Shot 2021-12-04 at 16 14 42" src="https://user-images.githubusercontent.com/58925650/144698177-5491bebb-4886-4bee-878b-cfc799dd2557.png">
 
 After successfully login in, you can also log out by clicking the account icon in the left top cornor.  
